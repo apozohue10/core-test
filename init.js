@@ -1,3 +1,7 @@
 console.log("Hellow world");
 
-let name = "alex";
+let name = "nacho";
+
+function getName() {
+	console.log(name);
+}
