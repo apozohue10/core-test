@@ -3,5 +3,5 @@ console.log("Hellow world");
 let name = "nacho";
 
 function getName() {
-	console.log(name);
+	console.log("Name:",name);
 }
